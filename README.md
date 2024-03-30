@@ -1,5 +1,5 @@
 # File_Handling_in_Python
-The secript performs the following tasks:
+The script performs the following tasks:
 
 Creates a new text file named "my_file.txt" and writes three lines of text into it.
 Reads the contents of "my_file.txt" and displays them on the console.
