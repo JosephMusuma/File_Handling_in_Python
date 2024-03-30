@@ -1,0 +1,6 @@
+1. Welcome to PLP Academy.
+2. This is a python week 5 assignment.
+3. It is about file handling in python.
+4. So far the python classes at PLP Academy are interesting!
+5. I Love the PLP instructors' dedication.
+6. I enjoy programming with python!
